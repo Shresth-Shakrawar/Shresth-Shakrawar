@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shresth-Shakrawar
-- 👀 I’m interested in mythology,video games and coding
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in mythology,video games and coding.
+- 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on : TBD
-- 📫 How to reach me: Email and Discord
+- 📫 How to reach me: Email and Discord.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like hip hop music.
+- ⚡ Fun fact: I like hip hop , rock and rnb.
 
 <!---
 Shresth-Shakrawar/Shresth-Shakrawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
